@@ -9,7 +9,6 @@ from .forms import RoomForm, UserForm, MyUserCreationForm
 
 # Create your views here.
 
-]
 
 
 def loginPage(request):
